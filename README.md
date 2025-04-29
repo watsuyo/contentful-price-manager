@@ -36,9 +36,9 @@ contentful-tool/
 2. Create a `.env` file in the root directory:
 
 ```
-CONTENTFUL_SPACE_ID=your_space_id
-CONTENTFUL_ENVIRONMENT_ID=master
-CONTENTFUL_MANAGEMENT_TOKEN=your_management_token
+CONTENTFUL_PM_SPACE_ID=your_space_id
+CONTENTFUL_PM_ENVIRONMENT_ID=master
+CONTENTFUL_PM_MANAGEMENT_TOKEN=your_management_token
 ```
 
 You can obtain your Management API token from:
